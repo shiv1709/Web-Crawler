@@ -1,5 +1,5 @@
 # Web-Crawler
-A Web crawler, also be called as Web spider or an automatic indexer.
+A Web crawler, also be called as Web spider or an automatic indexer.It is implemented here using Java.
 
 How does it works?
 
